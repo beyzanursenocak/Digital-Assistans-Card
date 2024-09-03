@@ -1,4 +1,4 @@
-Netlify Link: https://dijital-assistants-card.netlify.app/
+LIVE Link: https://dijital-assistants-card.netlify.app/
 
 # Getting Started with Create React App
 
